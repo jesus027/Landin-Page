@@ -1,4 +1,4 @@
-import styles from "./Style";
+import styles from './constants/Style';
 import { Navbar, Hero, Stats, Business, Billing, Clients, CardDeal, Testimonials, Footer, CTA} from './components';
 
 const App = () => (

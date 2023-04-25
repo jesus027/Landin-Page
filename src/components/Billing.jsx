@@ -1,5 +1,5 @@
 import { apple, bill, google } from "../assets";
-import styles, { layout } from "../Style";
+import styles, { layout } from "../constants/Style";
 
 const Billing = () => {
   return (

@@ -1,4 +1,4 @@
-import styles from "../Style";
+import styles from "../constants/Style";
 import { logo } from "../assets";
 import { footerLinks, socialMedia } from "../constants";
 

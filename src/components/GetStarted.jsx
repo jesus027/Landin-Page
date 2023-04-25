@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from '../Style';
+import styles from '../constants/Style';
 import { arrowUp } from '../assets';
 
 const GetStarted = () => (

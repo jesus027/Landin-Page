@@ -1,5 +1,5 @@
 import { clients } from "../constants";
-import styles from "../Style";
+import styles from "../constants/Style";
 
 const Clients = () => (
   <section className={`${styles.flexCenter} my-4`}>
