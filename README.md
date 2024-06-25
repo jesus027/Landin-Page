@@ -14,3 +14,16 @@ La Landing Page cuenta con una interfaz minimalista y moderna, diseñada para ll
 ### Objetivo:
 
 El proyecto busca proporcionar una experiencia de usuario óptima y aumentar la conversión y el engagement.
+
+### Requisitos previos:
+
+- Node.js instalado en la máquina local (versión 14 o superior)
+- Un editor de código o IDE (IntelliJ, Visual Studio Code, etc.)
+
+### Pasos para la instalación:
+
+* Clonar el repositorio `git clone https://github.com/jesus027/landin-page-beq040pqw.git`
+* Instalar dependencias `npm install`
+* Iniciar el servidor de desarrollo `npm start o run dev`, Este comando iniciará el servidor de desarrollo en `http://localhost:3000`. Abra un navegador y acceda a esta dirección para ver la aplicación en funcionamiento.
+
+[Demo del proyecto](https://landin-page-beq040pqw-jesus027.vercel.app/#features)
