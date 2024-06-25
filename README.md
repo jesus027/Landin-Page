@@ -24,6 +24,6 @@ El proyecto busca proporcionar una experiencia de usuario óptima y aumentar la 
 
 * Clonar el repositorio `git clone https://github.com/jesus027/landin-page-beq040pqw.git`
 * Instalar dependencias `npm install`
-* Iniciar el servidor de desarrollo `npm start o run dev`, Este comando iniciará el servidor de desarrollo en `http://localhost:3000`. Abra un navegador y acceda a esta dirección para ver la aplicación en funcionamiento.
+* Iniciar el servidor de desarrollo `npm start o npm run dev`, Este comando iniciará el servidor de desarrollo en `http://localhost:3000`. Abra un navegador y acceda a esta dirección para ver la aplicación en funcionamiento.
 
 [Demo del proyecto](https://landin-page-beq040pqw-jesus027.vercel.app/#features)
